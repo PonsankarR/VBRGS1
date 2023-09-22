@@ -567,7 +567,7 @@ if (valu == "drumstick") {
       </ol>
   `;
 }
-if (valu == "bittergourd") {
+if (valu == "bittergroud") {
   const recipi = document.getElementById('recipi');
   recipi.innerHTML = `
       <h1>Stuffed Bitter Gourd (Bharwan Karela)</h1>
